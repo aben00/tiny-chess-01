@@ -12,7 +12,7 @@ deterministic (no clock, no randomness). `main.py` is an LZMA payload
 (as the kit allows) that unpacks to the engine; it talks to the env over
 HTTP only.
 
-- `main.py` — the whole engine, 3,484 bytes
+- `main.py` — the whole engine, 3,519 bytes
 - `src.py` — the readable source (uncommitted, kept in the repo folder)
 - `LICENSE` — MIT
 - `.makefun/owner.json` — payout wallet
